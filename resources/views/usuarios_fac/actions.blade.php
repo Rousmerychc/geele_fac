@@ -1,0 +1,1 @@
+<a class="btn btn-outline-primary" id="btneditar" href="{{ url('/usuario_facturacion/'.$id).'/edit' }}"><i class="fas fa-pencil-alt"></i></a>

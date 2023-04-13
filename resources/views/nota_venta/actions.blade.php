@@ -1,0 +1,1 @@
+<a class="btn btn-outline-danger btn-sm" title = "ANULAR"  href="{{ url('/anular_nota_entrega/'.$id) }}"><i class="fas fa-ban"></i></a>
